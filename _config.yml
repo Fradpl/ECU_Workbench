@@ -1,0 +1,24 @@
+title: ECU Workbench
+description: ECU flashing, tuning, and diagnostics for powersports vehicles
+url: "https://mcu-innovations.github.io"
+baseurl: "/ECU_Workbench"
+
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: dark
+
+aux_links:
+  "mcuinnovations.com":
+    - "https://mcuinnovations.com/software/ecuwb/"
+
+aux_links_new_tab: true
+
+nav_external_links:
+  - title: Download
+    url: https://mcuinnovations.com/software/ecuwb/
+    hide_icon: false
+
+footer_content: "&copy; MCU Innovations, Inc."
+
+plugins:
+  - jekyll-seo-tag
