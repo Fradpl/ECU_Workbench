@@ -1,0 +1,26 @@
+@import "./color_schemes/dark";
+
+// Background
+$body-background-color: #1c1515;
+$sidebar-color: #1c1515;
+$search-background-color: #3b2a2a;
+$table-background-color: #3b2a2a;
+$code-background-color: #3b2a2a;
+$feedback-color: darken(#1c1515, 3%);
+
+// Text
+$body-text-color: #e8e0e0;
+$body-heading-color: #ffffff;
+
+// Accent
+$link-color: #e56565;
+$btn-primary-color: #e56565;
+$nav-child-link-color: #e56565;
+
+// Borders
+$border-color: #3b2a2a;
+$base-button-color: #3b2a2a;
+
+// Fonts
+$body-font-family: "Roboto", system-ui, sans-serif;
+$mono-font-family: "JetBrains Mono", "Cascadia Code", monospace;
