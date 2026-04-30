@@ -3,7 +3,7 @@ description: ECU flashing, tuning, and diagnostics for powersports vehicles
 url: "https://ecuworkbench.com"
 baseurl: ""
 
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 
 color_scheme: mcui
 
