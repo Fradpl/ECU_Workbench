@@ -6,10 +6,10 @@ This guide explains how to completely remove ECU Workbench from your system and 
 1. Download the web installer from mcuinnovations.com. (https://mcuinnovations.com/software/ecuwb/)
 
 2. Run the installer and click “Uninstall”
-<img src="images/1-EWb-Setup.png" width="100%">
+<img src="images/1-EWb-Setup.png" width="80%">
 
 3. Enable the two checkboxes as shown in the image, then click Uninstall
-<img src="images/2-EWb-Unistall.png" width="100%">
+<img src="images/2-EWb-Unistall.png" width="50%">
 
 ## 🔄 2. Operating System Restart
 
@@ -24,7 +24,7 @@ A restart ensures that:
 1. Launch the Web Installer
    
 2. In the two boxes indicated by the arrows, you can view and select which version to install (Stable or Development), then click Install
-<img src="images/3-EWb-Install.png" width="100%">
+<img src="images/3-EWb-Install.png" width="80%">
 
 3. Start the program to verify that everything is working correctly.
 
